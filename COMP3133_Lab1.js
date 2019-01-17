@@ -14,7 +14,7 @@ function largestInteger(num1,num2,num3){
             : "The numbers provided are all equal";
 }
 
-console.log(largestInteger(5,5,5))
+
 
 // Third Question
 function moveLast3Char(inputString){
